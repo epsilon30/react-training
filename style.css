@@ -1,0 +1,48 @@
+.heading{
+color: black;
+text-align: center;
+width:100%;
+height: 20%;
+font-size: 150%;
+}
+#sel1
+{
+    display: inline-block;
+    width: 20%;
+    margin-left: 33.6%;
+    
+}
+#sel2{
+    
+        display: inline-block;
+        width: 20%;
+        margin-left: 26.5%;
+    
+}
+#sel3{
+    display: inline-block;
+    width: 20%;
+    margin-left: 25%;
+}
+#sel4{
+    display: inline-block;
+    width: 20%;
+    margin-left: 26%;
+}
+.text1,.text2,.text3,.text4{
+    display: inline-block;
+    font-weight: bold;
+}
+.field1,.field2,.field3,.field4{
+    margin-top: 5%;
+}
+#b1{
+   
+    margin-left: 42%;
+    width: 11%;
+    height: 14%;
+}
+.buttondiv{
+    margin-top: 2.6%;
+
+}
